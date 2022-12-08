@@ -30,7 +30,7 @@ function AddressesComponent({ number }) {
                 :
                 <>
                     <Row>
-                        Countries
+                        <h2>Countries</h2>
                     </Row>
                     <Row>
                         {addresses.map((address, index) => (
@@ -40,7 +40,7 @@ function AddressesComponent({ number }) {
                         ))}
                     </Row>
                     <Row>
-                        Addresses
+                        <h2>Addresses</h2>
                     </Row>
                     <Row>
                         {addresses.map((address, index) => (

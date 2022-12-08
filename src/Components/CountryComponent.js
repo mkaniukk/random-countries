@@ -55,7 +55,7 @@ function CountryComponent({ address }) {
                 <Card className="city">
                     <Card.Header>{address.country}</Card.Header>
                     <ListGroup variant="flush">
-                        <ListGroup.Item>"No information found!"</ListGroup.Item>
+                        <ListGroup.Item>No information found!</ListGroup.Item>
                     </ListGroup>
                 </Card>}
         </div>
