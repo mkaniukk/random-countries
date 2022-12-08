@@ -4,11 +4,13 @@ In terminal run:
 
 ### `git clone https://github.com/mkaniukk/random-countries.git`
 
-## Available Scripts
+## Installing modules
 
-Install node_modules
+In terminal run:
 
 ### `npm i`
+
+## Available Scripts
 
 In the project directory, you can run:
 
