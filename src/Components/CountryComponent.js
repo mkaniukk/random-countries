@@ -37,7 +37,7 @@ function CountryComponent({ address }) {
                         <Card.Header>{country?.name?.official}</Card.Header>
                         <ListGroup variant="flush">
                             <ListGroup.Item>CAPITAL: {country?.capital?.at(0)}</ListGroup.Item>
-                            <ListGroup.Item>OPULATION: {numberWithSpaces(country?.population)}</ListGroup.Item>
+                            <ListGroup.Item>POPULATION: {numberWithSpaces(country?.population)}</ListGroup.Item>
                             <ListGroup.Item>LANGUAGES: {Object.values(country?.languages).map((value, index) => { return <div key={index}>{value}</div> })}</ListGroup.Item>
                         </ListGroup>
                     </Card>
