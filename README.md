@@ -4,9 +4,9 @@ In terminal run:
 
 ### `git clone https://github.com/mkaniukk/random-countries.git`
 
-## Installing modules
+## Installing node_modules
 
-In terminal run:
+In project directory run:
 
 ### `npm i`
 
