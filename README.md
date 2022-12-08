@@ -6,6 +6,10 @@ In terminal run:
 
 ## Available Scripts
 
+Install node_modules
+
+### `npm i`
+
 In the project directory, you can run:
 
 ### `npm start`
